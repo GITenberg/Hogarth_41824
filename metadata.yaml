@@ -1,0 +1,32 @@
+_repo: Hogarth_41824
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41824-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hind, C. Lewis (Charles Lewis)
+    aliases:
+    - Hind, Lewis
+    - Hind, Charles Lewis
+    - Hind, C. L. (Charles Lewis)
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '7231'
+    url: http://www.gutenberg.org/2009/agents/7231
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41824'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in Colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Hogarth, William, 1697-1764'
+title: Hogarth
+url: http://www.gutenberg.org/ebooks/41824
